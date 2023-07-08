@@ -103,14 +103,20 @@ main .contenido-ticket table tbody tr td a ion-icon:hover
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 @media (max-width: 650px) {
 =======
+=======
+>>>>>>> 901fd671910f180f1d5267fcb288220c8236f9ef
 /*RESPONSIVE 650px*/
 
 
 @media screen and (max-width: 650px) {
+<<<<<<< HEAD
+>>>>>>> 901fd671910f180f1d5267fcb288220c8236f9ef
+=======
 >>>>>>> 901fd671910f180f1d5267fcb288220c8236f9ef
 
     main .contenido-ticket
@@ -217,13 +223,17 @@ main .contenido-ticket table tbody tr td a ion-icon:hover
     }
     
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+>>>>>>> 901fd671910f180f1d5267fcb288220c8236f9ef
 =======
 >>>>>>> 901fd671910f180f1d5267fcb288220c8236f9ef
 }
 
 
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 @media (max-width: 1250px) {
@@ -232,6 +242,8 @@ main .contenido-ticket table tbody tr td a ion-icon:hover
     {
         width: 95%;
 =======
+=======
+>>>>>>> 901fd671910f180f1d5267fcb288220c8236f9ef
 /*RESPONSIVE 1340px*/
 
 
@@ -240,6 +252,9 @@ main .contenido-ticket table tbody tr td a ion-icon:hover
     main .contenido-ticket
     {
         width: 90%;
+<<<<<<< HEAD
+>>>>>>> 901fd671910f180f1d5267fcb288220c8236f9ef
+=======
 >>>>>>> 901fd671910f180f1d5267fcb288220c8236f9ef
         height: 500px;
         margin-top: 30px;
@@ -263,7 +278,11 @@ main .contenido-ticket table tbody tr td a ion-icon:hover
     main .contenido-ticket .contenido-tabla
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         width: 85%;
+=======
+        width: 90%;
+>>>>>>> 901fd671910f180f1d5267fcb288220c8236f9ef
 =======
         width: 90%;
 >>>>>>> 901fd671910f180f1d5267fcb288220c8236f9ef
@@ -346,7 +365,10 @@ main .contenido-ticket table tbody tr td a ion-icon:hover
     }
     
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+>>>>>>> 901fd671910f180f1d5267fcb288220c8236f9ef
 =======
 >>>>>>> 901fd671910f180f1d5267fcb288220c8236f9ef
 }

@@ -223,6 +223,7 @@ footer .logo-tecsup
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 @media (max-width: 650px) {
 
     * {padding: 0; margin: 0; box-sizing: border-box; font-family: 'Josefin Sans', sans-serif}
@@ -461,6 +462,8 @@ footer .logo-tecsup
     
     
 =======
+=======
+>>>>>>> 901fd671910f180f1d5267fcb288220c8236f9ef
 /*RESPONSIVE*/
 
 @media screen and (max-width: 650px) {
@@ -697,6 +700,9 @@ footer .logo-tecsup
 {
     color: #ffffff;
 }
+<<<<<<< HEAD
+>>>>>>> 901fd671910f180f1d5267fcb288220c8236f9ef
+=======
 >>>>>>> 901fd671910f180f1d5267fcb288220c8236f9ef
 
 }
