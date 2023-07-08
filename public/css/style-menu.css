@@ -15,23 +15,22 @@
         height: auto;
         display: flex;
         position: relative;
-        flex-direction: column;
-        align-items: center;
         box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.7);
     }
 
     header .logos
     {
-        width: 100%;
+        width: 25%;
         height: auto;
         display: flex;
-        justify-content: space-evenly;
+        justify-content: space-between;
+        margin-top: 10px;
     }
 
     header .logos img 
     {
         width: auto;
-        height: 60px;
+        height: 30px;
     }
 
     header .menu-bar
@@ -40,8 +39,6 @@
         height: auto;
         display: flex;
         justify-content: center;
-        margin-top: 10px;
-        margin-bottom: 10px;
     }
 
     header .menu-bar .options
@@ -162,10 +159,9 @@
 
     header .user-menu-bar
     {
-        width: 100%;
+        width: 50%;
         height: auto;
         display: flex;
-        margin-bottom: 10px;
     }
 
     header .user-menu-bar .user-icon
@@ -173,20 +169,21 @@
         width: 80%;
         height: auto;
         display: flex;
-        justify-content: end;
+        margin-top: 20px;
         text-decoration: none;
     }
 
     header .user-menu-bar .user-icon label
     {
-        width: 40%;
+        width: 80%;
         color: #fff;
         font-size: 8px;
         font-weight: 300;
         font-style: italic;
         display: flex;
         justify-content: end;
-        align-items: center;
+        margin-top: 15px;
+        margin-right: 10px;
     }
 
     header .user-menu-bar .user-icon span
@@ -194,7 +191,7 @@
         width: 20%;
         color: #fff;
         display: flex;
-        justify-content: center;
+        align-items: start;
     }
 
     header .user-menu-bar .user-icon span ion-icon
@@ -217,6 +214,7 @@
         height: auto;
         display: flex;
         justify-content: center;
+        margin-top: 20px;
         cursor: pointer;
     }
 
@@ -226,7 +224,7 @@
         height: auto;
         display: flex;
         justify-content: center;
-        align-items: center;
+        align-items: center ;
         transition: .5s;
     }
 
@@ -461,7 +459,7 @@
         background: #cdcdcd;
         width: 100%;
         height: auto;
-        /* overflow: hidden; */
+        overflow: hidden
     }
     
     header
@@ -475,6 +473,8 @@
         box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.7);
     }
     
+    
+
     header .logos
     {
         width: 30%;
@@ -797,7 +797,7 @@
         justify-content: center;
         align-items: center;
         flex-direction: column;
-        /* overflow: hidden; */
+        overflow: hidden;
         display: flex;
         position: absolute;
     }
@@ -910,7 +910,7 @@
         background: #cdcdcd;
         width: 100%;
         height: auto;
-        /* overflow: hidden; */
+        overflow: hidden;
     }
 
     header
@@ -1246,7 +1246,7 @@
         justify-content: center;
         align-items: center;
         flex-direction: column;
-        /* overflow: hidden; */
+        overflow: hidden;
         display: flex;
         position: absolute;
     }
