@@ -6,12 +6,6 @@ namespace Composer\Autoload;
 
 <<<<<<< HEAD
 <<<<<<< HEAD
-class ComposerStaticInit5c042b5a28cb6a1b0cf9389e81cd2785
-=======
-<<<<<<< HEAD
-=======
->>>>>>> 901fd671910f180f1d5267fcb288220c8236f9ef
-<<<<<<< HEAD
 class ComposerStaticInit3206189e08e0a79dde63923b7ed526ba
 =======
 class ComposerStaticInit84b5cb89c19043c2d97b61544e0993f3
@@ -19,10 +13,6 @@ class ComposerStaticInit84b5cb89c19043c2d97b61544e0993f3
 =======
 class ComposerStaticInit84b5cb89c19043c2d97b61544e0993f3
 >>>>>>> 5165b8fddf87cec48c1ff29e725eb26ab2b470b0
-<<<<<<< HEAD
->>>>>>> 901fd671910f180f1d5267fcb288220c8236f9ef
-=======
->>>>>>> 901fd671910f180f1d5267fcb288220c8236f9ef
 {
     public static $files = array (
         '0e6d7bf4a5811bfa5cf40c5ccd6fae6a' => __DIR__ . '/..' . '/symfony/polyfill-mbstring/bootstrap.php',
@@ -7266,33 +7256,9 @@ class ComposerStaticInit84b5cb89c19043c2d97b61544e0993f3
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-<<<<<<< HEAD
-<<<<<<< HEAD
-            $loader->prefixLengthsPsr4 = ComposerStaticInit5c042b5a28cb6a1b0cf9389e81cd2785::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInit5c042b5a28cb6a1b0cf9389e81cd2785::$prefixDirsPsr4;
-            $loader->classMap = ComposerStaticInit5c042b5a28cb6a1b0cf9389e81cd2785::$classMap;
-=======
-<<<<<<< HEAD
-=======
->>>>>>> 901fd671910f180f1d5267fcb288220c8236f9ef
-<<<<<<< HEAD
-            $loader->prefixLengthsPsr4 = ComposerStaticInit3206189e08e0a79dde63923b7ed526ba::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInit3206189e08e0a79dde63923b7ed526ba::$prefixDirsPsr4;
-            $loader->classMap = ComposerStaticInit3206189e08e0a79dde63923b7ed526ba::$classMap;
-=======
-            $loader->prefixLengthsPsr4 = ComposerStaticInit84b5cb89c19043c2d97b61544e0993f3::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInit84b5cb89c19043c2d97b61544e0993f3::$prefixDirsPsr4;
-            $loader->classMap = ComposerStaticInit84b5cb89c19043c2d97b61544e0993f3::$classMap;
->>>>>>> main
-=======
-            $loader->prefixLengthsPsr4 = ComposerStaticInit84b5cb89c19043c2d97b61544e0993f3::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInit84b5cb89c19043c2d97b61544e0993f3::$prefixDirsPsr4;
-            $loader->classMap = ComposerStaticInit84b5cb89c19043c2d97b61544e0993f3::$classMap;
->>>>>>> 5165b8fddf87cec48c1ff29e725eb26ab2b470b0
-<<<<<<< HEAD
->>>>>>> 901fd671910f180f1d5267fcb288220c8236f9ef
-=======
->>>>>>> 901fd671910f180f1d5267fcb288220c8236f9ef
+            $loader->prefixLengthsPsr4 = ComposerStaticInite43b59f0f313c8d6ac37287502446711::$prefixLengthsPsr4;
+            $loader->prefixDirsPsr4 = ComposerStaticInite43b59f0f313c8d6ac37287502446711::$prefixDirsPsr4;
+            $loader->classMap = ComposerStaticInite43b59f0f313c8d6ac37287502446711::$classMap;
 
         }, null, ClassLoader::class);
     }
