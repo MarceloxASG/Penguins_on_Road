@@ -251,13 +251,23 @@ main .info .info-text .info-detalle .paraderos li
 
 
 
+<<<<<<< HEAD
 @media (max-width: 650px) {
+=======
+/*RESPONSIVE*/
+
+@media screen and (max-width: 650px) {
+>>>>>>> 901fd671910f180f1d5267fcb288220c8236f9ef
 
     main .turnos
     {   
         width: 70%;
         height: auto;
+<<<<<<< HEAD
         margin-top: 20px;
+=======
+        margin-top: 30px;
+>>>>>>> 901fd671910f180f1d5267fcb288220c8236f9ef
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -266,8 +276,13 @@ main .info .info-text .info-detalle .paraderos li
     
     main .turnos .title-box1
     {
+<<<<<<< HEAD
        width: 108%;
        height: 80px;
+=======
+       width: 106%;
+       height: 70px;
+>>>>>>> 901fd671910f180f1d5267fcb288220c8236f9ef
        background: rgba(0, 0, 0, 0.80);
        display: flex;
        justify-content: center;
@@ -278,18 +293,31 @@ main .info .info-text .info-detalle .paraderos li
     main .turnos .title-box1 h3
     {
         color: #fff;
+<<<<<<< HEAD
         font-size: 23px;
         font-weight: 500;
         text-align: center;
         padding-left: 8px;
         padding-right: 8px;
+=======
+        font-size: 21px;
+        font-weight: 500;
+        text-align: center;
+        width: 90%;
+>>>>>>> 901fd671910f180f1d5267fcb288220c8236f9ef
     }
     
     main .turnos .btn-turno
     {
+<<<<<<< HEAD
         width: 180px;
         height: 50px;
         margin-top: 40px;
+=======
+        width: 50%;
+        height: 50px;
+        margin-top: 35px;
+>>>>>>> 901fd671910f180f1d5267fcb288220c8236f9ef
         background: linear-gradient(90deg, #00894F 0%, #2EA8EC 52.40%, #0053B5 100%);
         display: flex;
         align-items: center;
@@ -299,10 +327,19 @@ main .info .info-text .info-detalle .paraderos li
     
     main .turnos .btn-turno a
     {
+<<<<<<< HEAD
         font-weight: 800;
         font-size: 20px;
         color: #181818;
         text-decoration: none;
+=======
+        font-weight: 700;
+        font-size: 15px;
+        color: #181818;
+        text-decoration: none;
+        text-align: center;
+        width: 87%;
+>>>>>>> 901fd671910f180f1d5267fcb288220c8236f9ef
     }
     
     main .turnos .btn-turno:hover
@@ -318,9 +355,15 @@ main .info .info-text .info-detalle .paraderos li
     
     main .turnos .btn-ruta
     {
+<<<<<<< HEAD
         width: 520px;
         height: 60px;
         margin-top: 50px;
+=======
+        width: 115%;
+        height: 55px;
+        margin-top: 40px;
+>>>>>>> 901fd671910f180f1d5267fcb288220c8236f9ef
         background: linear-gradient(90deg, #00894F 0%, #2EA8EC 52.40%, #0053B5 100%);
         display: flex;
         align-items: center;
@@ -341,10 +384,20 @@ main .info .info-text .info-detalle .paraderos li
     
     main .turnos .btn-ruta a
     {
+<<<<<<< HEAD
         font-weight: 500;
         font-size: 20px;
         color: #181818;
         text-decoration: none;
+=======
+        font-weight: 550;
+        font-size: 18px;
+        color: #181818;
+        text-decoration: none;
+        padding-left: 10px;
+        padding-right: 10px;
+        text-align: center;
+>>>>>>> 901fd671910f180f1d5267fcb288220c8236f9ef
     }
     
     main .turnos .title-box2 a ion-icon
@@ -352,6 +405,10 @@ main .info .info-text .info-detalle .paraderos li
         width: 40px;
         height: 40px;
         color: #fff;
+<<<<<<< HEAD
+=======
+        margin-left: 7px;
+>>>>>>> 901fd671910f180f1d5267fcb288220c8236f9ef
     }
     
     main .turnos .title-box2 a ion-icon:hover
@@ -361,7 +418,11 @@ main .info .info-text .info-detalle .paraderos li
     
     main .turnos .title-box2
     {
+<<<<<<< HEAD
         width: 590px;
+=======
+        width: 130%;
+>>>>>>> 901fd671910f180f1d5267fcb288220c8236f9ef
         height: 60px;
         background: rgba(0, 0, 0, 0.80);
         border-radius: 5px;
@@ -373,8 +434,15 @@ main .info .info-text .info-detalle .paraderos li
     main .turnos .title-box2 h3
     {
         color: #fff;
+<<<<<<< HEAD
         font-size: 20px;
         font-weight: 500;
+=======
+        font-size: 19px;
+        font-weight: 500;
+        padding-right: 12px;
+        margin-left: 15px;
+>>>>>>> 901fd671910f180f1d5267fcb288220c8236f9ef
     }
     
     main .info
@@ -506,5 +574,9 @@ main .info .info-text .info-detalle .paraderos li
         line-height: 0px;
     }
     
+<<<<<<< HEAD
     
+=======
+
+>>>>>>> 901fd671910f180f1d5267fcb288220c8236f9ef
 }
